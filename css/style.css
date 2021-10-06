@@ -1,0 +1,19 @@
+/* Add all your styles here */
+
+h3{
+  border:2px solid black;
+  height:100px;
+  width:340px;
+  padding-top:50px;
+  text-align:center;
+  border-radius:10px;
+}
+img{
+  width: 340px;
+}
+ a{
+  color:black;
+}
+p{
+  text-align:center;
+}

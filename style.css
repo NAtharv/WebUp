@@ -1,0 +1,16 @@
+/* Add all your styles here */
+
+h3{
+  border:2px solid black;
+  height:100px;
+  width:340px;
+  padding-top:50px;
+  text-align:center;
+  border-radius:10px;
+ }
+ a{
+  color:black;
+}
+img{
+  width:330px;
+}
